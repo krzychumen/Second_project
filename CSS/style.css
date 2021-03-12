@@ -2,3 +2,12 @@ body
 {
 	background-color: #69c43f;
 }
+h1
+{
+	font-size: 50px;
+	color: red;
+}
+p
+{
+	color: blue;
+}
