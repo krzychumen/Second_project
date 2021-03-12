@@ -11,3 +11,7 @@ p
 {
 	color: blue;
 }
+#tab1, tr, td
+{
+	border: 5px solid black;
+}
